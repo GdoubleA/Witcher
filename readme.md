@@ -1,4 +1,5 @@
-![WITCHER](img/tw3-next-gen-logo-light-en%402x-ed17a5d0..png)
+<div align="center">
+  <img src="img/tw3-next-gen-logo-light-en@2x-ed17a5d0..png" min-width="400px" max-width="400px" width="400px" align="center" alt="Computador iuriCode"></div>
 
 ---
 # <p align="center">Site Slider</p>
