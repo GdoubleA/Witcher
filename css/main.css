@@ -48,10 +48,11 @@ html, body {
 
 
 
-
-
-
-.slider__title {
-    text-align: center;
-    justify-content: center;
+.witcher {
+    position: absolute;
+    inset: 0;
+    background: no-repeat;
+    background-position-x: center;
+    background-size: 400px;
+    will-change: transform;
 }
